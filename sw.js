@@ -1,6 +1,6 @@
 // Service worker của Sổ Tay HSK: lưu app vào máy để mở được khi mất mạng.
 // Mỗi lần sửa app, tăng số phiên bản bên dưới để máy người dùng lấy bản mới.
-const CACHE = "sotayhsk-v1";
+const CACHE = "sotayhsk-v2";
 const SHELL = [
   "./",
   "./index.html",
